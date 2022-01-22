@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-RID16-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
 data_stream: CE06ISSM-RID16-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
 end_date: '2021-09-20T17:30:01.000Z'
-last_updated: '2022-01-22T04:24:31.512332Z'
+last_updated: '2022-01-22T04:27:14.518065'
 start_date: '2019-04-25T23:00:01.000Z'
-status: pending
+status: success
